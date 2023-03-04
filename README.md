@@ -21,7 +21,7 @@ Don’t Just LeetCode; Follow the Coding Patterns Instead
 
 
 
-## Features
+## Patterns
 
 - Sliding Window
 - Islands (Matrix Traversal)
