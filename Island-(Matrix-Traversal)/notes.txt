@@ -1,0 +1,6 @@
+video-link : https://www.youtube.com/watch?v=__98uL6wst8
+
+We can use DFS or BFS to solve this type of problems 
+
+time complexity = O(n)
+space complexity = O(1) + stack size
